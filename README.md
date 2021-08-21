@@ -26,7 +26,7 @@ This is a card styling challenge given by frontendmentor . I'm Sahedul Islam , c
 
 ### Links
 
-- Solution URL: [GitHub Repository](https://github.com/order-summary-component)
+- Solution URL: [GitHub Repository](https://github.com/Sahed33-m/order-summary-component)
 - Live Site URL: [Live Preview](https://sahed33-m.github.io/order-summary-component)
 
 ## My process
@@ -65,13 +65,14 @@ I use only Grid Template for placing items on right places .
  
 ## Author
 
-- Website - [Sahedul Islam Rony](http://www.sahed.cf)
-- Frontend Mentor - [@Sahed33-m](https://www.frontendmentor.io/profile/Sahed33-m)
-- Twitter - [@i_am_Sahed](https://www.twitter.com/i_am_Sahed)
-- Facebook - [Sahedul Islam](https://www.facebook.com/Sahedul33)
+- Website : [Sahedul Islam Rony](http://www.sahed.cf)
+- Frontend Mentor : [@Sahed33-m](https://www.frontendmentor.io/profile/Sahed33-m)
+- Twitter : [@i_am_Sahed](https://www.twitter.com/i_am_Sahed)
+- Facebook : [Sahedul33](https://www.facebook.com/Sahedul33)
 
-##Contact 
+## Contact 
+
 Having any issues when browsing ?  Feel free to knowing me about your problem (s) .
 If you have a suggestion for me , please mail me without any delay ! I'm waiting for your valuable words!
 
-- Email : [Send Your Message](mailto: sahedulislamofficial@gmail.com?subject=Order Summery Card Review )
+- Email : [Send Your Message](https://mailto:sahedulislamofficial@gmail.com?subject=Order-Summery-Card-Review)
