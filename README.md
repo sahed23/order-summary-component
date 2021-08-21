@@ -46,8 +46,8 @@ Using Grid Template I responsibly place the card in center.
    place-items:center;
  }
 ```
-Then I create 4 separated Elements(Tag) inside the .card to place items properly.
-I take one img tag for placing top image , one <p> tag  for Summary message and  two div for price items and buttons individually.
+Then I create 5 separated Elements(Tag) inside the card to place items properly.
+I take one img tag for placing top image , one h tag for card heading ,one p tag  for Summary message and  two div for price items and buttons individually.
 
 After placing all content on their right place I start styling using pure CSS3 .
 
