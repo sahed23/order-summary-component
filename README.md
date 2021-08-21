@@ -4,32 +4,32 @@ This is a solution to the [Order summary card challenge on Frontend Mentor](http
 
 ## Table of contents
 
-- [Overview](#overview)
-  - [The challenge](#the-challenge)
-  - [Screenshot](#screenshot)
-  - [Links](#links)
-- [My process](#my-process)
-  - [Built with](#built-with)
-  - [What I learned](#what-i-learned)
-- [Author](#author)
-- [Contact](#contact)
+- [Overview 🎉](#overview)
+  - [The challenge 🎉](#the-challenge)
+  - [Screenshot ✨](#screenshot)
+  - [Links ⚡](#links)
+- [My process ✍️](#my-process)
+  - [Built with ❣️](#built-with)
+  - [What I learned ❓](#what-i-learned)
+- [Author 💝](#author)
+- [Important ❗](#important)
 
-## Overview
+## Overview 🎉
 This is a card styling challenge given by frontendmentor . I'm Sahedul Islam , complete this project and share some words to you . See my codes and suggest me if something should be better then I did .
 
-### The challenge
+### The challenge 🎉
  This challenge is about to create a interactive Order Summery Card 
  
-### Screenshot
+### Screenshot ✨
 
 ![Screenshot](images/screenshot.jpg)
 
-### Links
+### Links ⚡
 
 - Solution URL: [GitHub Repository](https://github.com/Sahed33-m/order-summary-component)
 - Live Site URL: [Live Preview](https://sahed33-m.github.io/order-summary-component)
 
-## My process
+## My process ✍️
 I create a main div inside body tag . then I take a child div and named it card.
 ```html
 <div class="main" >
@@ -54,25 +54,24 @@ After placing all content on their right place I start styling using pure CSS3 .
 I use only Grid Template for placing items on right places .
 
 
-### Built with
+### Built with ❣️
 
 - Semantic HTML5 markup
 - CSS custom properties
 - CSS Grid
 
-### What I learned
+### What I learned ❓
  There are many things I learned by doing this project. It was very interesting project . The first thing I learned that, how to use colors properly . I use CSS Grid for styling .
  
-## Author
+## Author 💝
 
 - Website : [Sahedul Islam Rony](http://www.sahed.cf)
 - Frontend Mentor : [@Sahed33-m](https://www.frontendmentor.io/profile/Sahed33-m)
 - Twitter : [@i_am_Sahed](https://www.twitter.com/i_am_Sahed)
 - Facebook : [Sahedul33](https://www.facebook.com/Sahedul33)
+- Email : [Email](mailto:sahedulislamofficial@gmail.com?subject=Order-Summery-Card-Review)
 
-## Contact 
+## Important ❗
 
 Having any issues when browsing ?  Feel free to knowing me about your problem (s) .
 If you have a suggestion for me , please mail me without any delay ! I'm waiting for your valuable words!
-
-- Email : [Send Your Message](mailto:sahedulislamofficial@gmail.com?subject=Order-Summery-Card-Review)
