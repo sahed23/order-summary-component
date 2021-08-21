@@ -75,4 +75,4 @@ I use only Grid Template for placing items on right places .
 Having any issues when browsing ?  Feel free to knowing me about your problem (s) .
 If you have a suggestion for me , please mail me without any delay ! I'm waiting for your valuable words!
 
-- Email : [Send Your Message](https://mailto:sahedulislamofficial@gmail.com?subject=Order-Summery-Card-Review)
+- Email : [Send Your Message](mailto:sahedulislamofficial@gmail.com?subject=Order-Summery-Card-Review)
