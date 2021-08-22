@@ -14,22 +14,22 @@ This is a solution to the [Order summary card challenge on Frontend Mentor](http
 - [Author ](#author)
 - [Important ](#important)
 
-## Overview 🎉
+## Overview
 This is a card styling challenge given by frontendmentor . I'm Sahedul Islam , complete this project and share some words to you . See my codes and suggest me if something should be better then I did .
 
-### The challenge 🎉
+### The challenge
  This challenge is about to create a interactive Order Summery Card 
  
-### Screenshot ✨
+### Screenshot
 
 ![Screenshot](images/screenshot.jpg)
 
-### Links ⚡
+### Links
 
 - Solution URL: [GitHub Repository](https://github.com/Sahed33-m/order-summary-component)
 - Live Site URL: [Live Preview](https://sahed33-m.github.io/order-summary-component)
 
-## My process ✍️
+## My process
 I create a main div inside body tag . then I take a child div and named it card.
 ```html
 <div class="main" >
@@ -54,13 +54,13 @@ After placing all content on their right place I start styling using pure CSS3 .
 I use only Grid Template for placing items on right places .
 
 
-### Built with ❣️
+### Built with
 
 - Semantic HTML5 markup
 - CSS custom properties
 - CSS Grid
 
-### What I learned ❓
+### What I learned
  There are many things I learned by doing this project. It was very interesting project . The first thing I learned that, how to use colors properly . I use CSS Grid for styling .
  
 ## Author 
@@ -71,7 +71,7 @@ I use only Grid Template for placing items on right places .
 - Facebook : [Sahedul33](https://www.facebook.com/Sahedul33)
 - Email : [Email](mailto:sahedulislamofficial@gmail.com?subject=Order-Summery-Card-Review)
 
-## Important ❗
+## Important
 
 Having any issues when browsing ?  Feel free to knowing me about your problem (s) .
 If you have a suggestion for me , please mail me without any delay ! I'm waiting for your valuable words!
