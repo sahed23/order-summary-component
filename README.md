@@ -1,18 +1,18 @@
-# Frontend Mentor - Order summary card solution
+# Frontend Mentor - Order summary card solution 🎉🎉
 
 This is a solution to the [Order summary card challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/order-summary-component-QlPmajDUj). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
 
 ## Table of contents
 
-- [Overview 🎉](#overview)
-  - [The challenge 🎉](#the-challenge)
-  - [Screenshot ✨](#screenshot)
-  - [Links ⚡](#links)
-- [My process ✍️](#my-process)
-  - [Built with ❣️](#built-with)
-  - [What I learned ❓](#what-i-learned)
-- [Author 💝](#author)
-- [Important ❗](#important)
+- [Overview ](#overview)
+  - [The challenge ](#the-challenge)
+  - [Screenshot ](#screenshot)
+  - [Links ](#links)
+- [My process ](#my-process)
+  - [Built with](#built-with)
+  - [What I learned](#what-i-learned)
+- [Author ](#author)
+- [Important ](#important)
 
 ## Overview 🎉
 This is a card styling challenge given by frontendmentor . I'm Sahedul Islam , complete this project and share some words to you . See my codes and suggest me if something should be better then I did .
@@ -63,7 +63,7 @@ I use only Grid Template for placing items on right places .
 ### What I learned ❓
  There are many things I learned by doing this project. It was very interesting project . The first thing I learned that, how to use colors properly . I use CSS Grid for styling .
  
-## Author 💝
+## Author 
 
 - Website : [Sahedul Islam Rony](http://www.sahed.cf)
 - Frontend Mentor : [@Sahed33-m](https://www.frontendmentor.io/profile/Sahed33-m)
