@@ -134,7 +134,7 @@ html {
   color: hsl(223, 47%, 23%);
 }
 
-@media screen and (min-width:1400px){
+@media  (min-width:1400px){
   .main{
   background-image:url('images/pattern-background-desktop.svg');
   }
